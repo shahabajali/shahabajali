@@ -33,7 +33,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="280" src="[https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif](https://github.com/shahabajali/shahabajali/commit/9fa4720b0105e5414731a1c03f2d08cefe729206)" />
+<img align="right" width="280" src="https://raw.githubusercontent.com/shahabajali/shahabajali/main/IMG_20230110_131648.jpg" />
 
 - 🔭 **Full Stack Developer** building and shipping production-style apps with the **MERN** stack
 - 🌱 Completed a virtual **Frontend Developer internship at Skyscanner** — React.js, Vite, Tailwind CSS
@@ -41,7 +41,6 @@
 - 📚 Actively solving **DSA problems in C++** to sharpen problem-solving fundamentals
 - 🎯 Currently looking for an **entry-level Full Stack / MERN Stack Developer** role
 - 💬 Ask me about **React, Node.js, Express, MongoDB**
-
 <br clear="right"/>
 
 ---
