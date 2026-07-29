@@ -158,7 +158,7 @@ Lightweight weather lookup app consuming a public weather API.
 #### 📈 Overall Contributions
 <sub>⭐ Stars earned &nbsp;·&nbsp; 🔀 Total PRs &nbsp;·&nbsp; 🐛 Issues raised &nbsp;·&nbsp; 💾 Total Commits &nbsp;·&nbsp; 🏆 GitHub Rank (shown as a letter grade, top-right circle)</sub>
 
-<img src="https://github-readme-stats.vercel.app/api?username=shahabajali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true&cache_seconds=1800" height="180" />
+<img src="https://github-readme-stats-shahabaj-ali.vercel.app/api?username=shahabajali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true&cache_seconds=1800" height="180" />
 
 <br/>
 
@@ -172,7 +172,7 @@ Lightweight weather lookup app consuming a public weather API.
 #### 💻 Most Used Languages
 <sub>Percentage of code written per language across all public repos</sub>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahabajali&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800&langs_count=8" height="180" />
+<img src="https://github-readme-stats-shahabaj-ali.vercel.app/api/top-langs/?username=shahabajali&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800&langs_count=8" height="180" />
 
 <br/>
 
