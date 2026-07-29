@@ -143,16 +143,23 @@ Lightweight weather lookup app consuming a public weather API.
 
 <div align="center">
 
+#### 📈 Overall Contributions &nbsp;(commits · PRs · issues · stars)
 <img src="https://github-readme-stats.vercel.app/api?username=shahabajali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="165" />
+
+#### 🔥 Commit Streak &nbsp;(current streak · longest streak · total contributions)
+<img src="https://streak-stats.demolab.com?user=shahabajali&theme=tokyonight&hide_border=true" width="75%" />
+
+#### 💻 Most Used Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahabajali&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 
-<img src="https://streak-stats.demolab.com?user=shahabajali&theme=tokyonight&hide_border=true" width="70%" />
-
+#### 📅 Contribution Activity &nbsp;(last 31 days)
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahabajali&theme=tokyo-night&hide_border=true" width="90%" />
 
 </div>
 
-> 💡 **Note:** GitHub stat images occasionally take a few seconds to load or may briefly show a "failed to fetch" placeholder due to the free hosting service being rate-limited. Refreshing the page on GitHub usually resolves it — this doesn't affect the actual repo/profile.
+> 💡 **Note:** Stat cards fetch live data from GitHub, so they may briefly show a "failed to fetch" placeholder if the free hosting service is rate-limited. Refreshing the page on GitHub usually fixes it — it doesn't affect your actual profile or repos.
+>
+> ⚠️ **Setup reminder:** the Contribution Activity graph needs a **public GitHub Action** enabled on a repo (usually the `github-readme-activity-graph` action or a pinned workflow) to populate — if it stays blank, that's the likely cause, not a broken link.
 
 ---
 
