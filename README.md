@@ -71,15 +71,12 @@
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shahabajali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahabajali&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/DSA%20Problems-140%2B-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Projects-6+-blue?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=shahabajali&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%" />
-</p>
 
 ### 📫 Reach Me
 
