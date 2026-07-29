@@ -33,7 +33,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="280" src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" />
+<img align="right" width="280" src="[https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif](https://github.com/shahabajali/shahabajali/commit/9fa4720b0105e5414731a1c03f2d08cefe729206)" />
 
 - 🔭 **Full Stack Developer** building and shipping production-style apps with the **MERN** stack
 - 🌱 Completed a virtual **Frontend Developer internship at Skyscanner** — React.js, Vite, Tailwind CSS
