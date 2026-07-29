@@ -33,7 +33,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="280" src="https://raw.githubusercontent.com/shahabajali/shahabajali/main/IMG_20230110_131648.jpg" />
+<img align="right" width="150" src="https://raw.githubusercontent.com/shahabajali/shahabajali/main/IMG_20230110_131648.jpg" />
 
 - 🔭 **Full Stack Developer** building and shipping production-style apps with the **MERN** stack
 - 🌱 Completed a virtual **Frontend Developer internship at Skyscanner** — React.js, Vite, Tailwind CSS
