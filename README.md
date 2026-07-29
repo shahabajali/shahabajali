@@ -73,14 +73,17 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahabajali&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahabajali&theme=tokyonight&hide_border=true" alt="GitHub streak" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shahabajali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahabajali&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top languages" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahabajali&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
+  <img src="https://streak-stats.demolab.com?user=shahabajali&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub streak" height="165" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shahabajali&theme=tokyonight&no-frame=true&column=4&margin-w=8&margin-h=8" alt="GitHub trophies" />
+</p>
 ---
 
 ### 📫 Reach Me
