@@ -33,18 +33,19 @@
 
 ## 🧑‍💻 About Me
 
-<!-- <img
+ <img
   align="right"
   width="150"
   style="border-radius: 50%;"
   src="https://raw.githubusercontent.com/shahabajali/shahabajali/main/robotimage.png"
-/> -->
-<img
+   alt="Hanging Robot"
+/> 
+<!-- <img
   align="right"
   width="180"
   src="https://raw.githubusercontent.com/shahabajali/shahabajali/main/robot-rope.gif"
   alt="Hanging Robot"
-/>
+/> -->
 
 - 🔭 **Full Stack Developer** building and shipping production-style apps with the **MERN** stack
 - 🌱 Completed a virtual **Frontend Developer internship at Skyscanner** — React.js, Vite, Tailwind CSS
