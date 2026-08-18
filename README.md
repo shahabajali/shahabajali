@@ -270,7 +270,7 @@ jobs:
 📧 [shahabajali2003@gmail.com](mailto:shahabajali2003@gmail.com) &nbsp;|&nbsp;
 💼 [LinkedIn](https://www.linkedin.com/in/shahabaj-ali-82a521286/) &nbsp;|&nbsp;
 💻 [GitHub](https://github.com/shahabajali) &nbsp;|&nbsp;
-🧠 [LeetCode](https://leetcode.com/)](https://leetcode.com/u/mOWnHTjlmo/)
+🧠 [LeetCode](https://leetcode.com/)]
 
 <br/>
 
