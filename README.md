@@ -24,7 +24,7 @@
 <br/><br/>
 
 <img src="https://img.shields.io/badge/🎓_B.Tech_CS-2026-6C63FF?style=flat-square&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/🧩_DSA_Solved-140+-FF6B6B?style=flat-square&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/🧩_DSA_Solved-160+-FF6B6B?style=flat-square&labelColor=1a1a2e" />
 <img src="https://img.shields.io/badge/🚀_Status-Open_to_Work-00C896?style=flat-square&labelColor=1a1a2e" />
 
 </div>
@@ -270,7 +270,7 @@ jobs:
 📧 [shahabajali2003@gmail.com](mailto:shahabajali2003@gmail.com) &nbsp;|&nbsp;
 💼 [LinkedIn](https://www.linkedin.com/in/shahabaj-ali-82a521286/) &nbsp;|&nbsp;
 💻 [GitHub](https://github.com/shahabajali) &nbsp;|&nbsp;
-🧠 [LeetCode](https://leetcode.com/)
+🧠 [LeetCode](https://leetcode.com/)](https://leetcode.com/u/mOWnHTjlmo/)
 
 <br/>
 
